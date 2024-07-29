@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Bottombar.qml</file>
+        <file>Rightscreen.qml</file>
+        <file>tesla.jpg</file>
+        <file>avinya.jpg</file>
+        <file>ferrari.jpeg</file>
+        <file>untitled folder/home.png</file>
+        <file>untitled folder/calendar.png</file>
+        <file>untitled folder/high-volume.png</file>
+        <file>untitled folder/map.png</file>
+        <file>untitled folder/music.png</file>
+        <file>untitled folder/phone-call.png</file>
+    </qresource>
+</RCC>
